@@ -15,7 +15,7 @@ public class BasicConfiguratorExample {
 		logger.warn("This a warn message");
 		logger.error("This a error message");
 		logger.fatal("This a fatal message");
-		
+		//Commits that has to done everyday
 
 	}
 
